@@ -1,6 +1,18 @@
-# 公众号文章流量分析工具
+# 公众号文章流量分析工具/wechat-data-analysis
 
 这是一个用于整合公众号文章后台数据的本地工具。它会自动读取 `data/` 目录中的文章明细文件，完成去重、清洗、统计、评分，并同步输出一份 Excel 报表和一份 HTML 可视化报告。
+
+html界面很健康（因为我是绿人ENFJ）😃
+<img width="1920" height="938" alt="image" src="https://github.com/user-attachments/assets/442ebcf3-3de6-4cdb-b941-5d3cb2d2a0e9" />
+
+EXCEL界面如图
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/6ae64bec-64e5-46d8-a3ed-3be39fd7268c" />
+如果你是公众号博主，或许你会需要它~
+
+GUI界面很干净（跟我的钱包一样）🙂
+<img width="780" height="566" alt="image" src="https://github.com/user-attachments/assets/b5b9dd72-2bc0-4c76-a442-35d7221cbd7d" />
+
+
 
 ## 功能
 
