@@ -2,7 +2,10 @@
 
 这是一个用于整合公众号文章后台数据的本地工具。它会自动读取 `data/` 目录中的文章明细文件，完成去重、清洗、统计、评分，并同步输出一份 Excel 报表和一份 HTML 可视化报告。
 
-<img width="1920" height="938" alt="image" src="https://github.com/user-attachments/assets/6d995466-f6af-411a-8284-9105ba5958d9" />
+<img width="1920" height="938" alt="image" src="https://github.com/user-attachments/assets/442ebcf3-3de6-4cdb-b941-5d3cb2d2a0e9" />
+
+<img width="780" height="519" alt="image" src="https://github.com/user-attachments/assets/c1b668d5-3b44-43fe-95f3-6693376aa0bd" />
+
 
 ## 功能
 
