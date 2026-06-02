@@ -86,7 +86,7 @@ python gzh_analyzer.py --input data --output-dir output --name 公众号文章�
 
 ## 打包版 exe
 
-项目已经支持打包为单文件 exe。生成后的文件位于：
+项目已经支持打包为单文件 exe,双击构建程序.bat即可完成打包。生成后的文件位于：
 
 ```bash
 dist/gzh_report_tool.exe
@@ -141,7 +141,7 @@ HTML 适合快速查看整体表现，包括：
 如果你修改了代码，可以重新执行打包命令：
 
 ```bash
-pyinstaller --noconfirm --clean --onefile --windowed --name gzh_report_tool main.py
+pyinstaller --noconfirm --clean --onefile --windowed --icon=app.ico --name gzh_report_tool main.py
 ```
 
 打包完成后，新的 exe 会生成在 `dist/` 目录下。
